@@ -1,5 +1,15 @@
 bebebe
 puto el que lee
 maico se donde vivis
+<<<<<<< HEAD
+bardooo
+=======
 
+<<<<<<< HEAD
 fsdgrege
+=======
+fsd
+>>>>>>> 2454381696d35d5f4110bcfc6835051ae1ed1ca9
+>>>>>>> dc163e1d10ebb2dac29c20209310655aa7dcc79e
+
+volvi hola
