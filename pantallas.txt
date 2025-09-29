@@ -1,4 +1,9 @@
 bebebe
 puto el que lee
 maico se donde vivis
+<<<<<<< HEAD
 bardooo
+=======
+
+fsd
+>>>>>>> 2454381696d35d5f4110bcfc6835051ae1ed1ca9
